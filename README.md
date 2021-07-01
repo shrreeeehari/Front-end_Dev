@@ -1,6 +1,6 @@
 # Front-end_Dev
 
-This is a project showing a front-end design example based on the theme of a dance studio. Different css and javascript effects have been used to describe the programs and features offered by the studio. All different sections of the main page (programs, features, styles, instructors, pricing) and the second page have unique styles and effects.
+This is a project showing a front-end design example of a website based on the theme of a dance studio. Different css and javascript effects have been used to describe the programs and features offered by the studio. All different sections of the main page (programs, features, styles, instructors, pricing) and the second page have unique styles and effects.
 
 <h3>FEW SECTIONS FROM THE MAIN PAGE</h3>
 
